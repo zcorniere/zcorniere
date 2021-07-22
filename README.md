@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello ! I'm Zacharie Corniere 👋
 
-<!--
-**zcorniere/zcorniere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a computer science student, based in France
 
-Here are some ideas to get you started:
+- 🖥️ I'm currently learning Vulkan and 3d graphics
+- 💬 I can talk about computer, space or technologies all day 🤣
+- 🤝 I really want to contridute to more open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me 
+[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="notion" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="notion" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/pencil.svg" />][email]
+
+<br />
+
+### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcorniere)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[linkedin]: https://www.linkedin.com/in/zacharie-corniere-375170185/
+[website]: https://zcorniere.notion.site/Blog-7bafd0c2532c4ebeb788a9068227f526/
+[email]: mailto:zacharie@corniere.me
