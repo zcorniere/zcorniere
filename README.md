@@ -8,8 +8,7 @@
 
 ### Connect with me 
 [<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="notion" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="notion" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/pencil.svg" />][email]
+[<img align="left" alt="Mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/pencil.svg" />][email]
 
 <br />
 
@@ -18,5 +17,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/zacharie-corniere-375170185/
-[website]: https://zcorniere.notion.site/Blog-7bafd0c2532c4ebeb788a9068227f526/
 [email]: mailto:zacharie@corniere.me
