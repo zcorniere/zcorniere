@@ -1,8 +1,7 @@
 ### Hello ! I'm Zacharie Corniere 👋
 
-## I'm a computer science student, based in France
+## I'm a game dev !
 
-- 🖥️ I'm currently learning Vulkan and 3d graphics
 - 💬 I can talk about computer, space or technologies all day 🤣
 - 🤝 I really want to contridute to more open source projects
 
