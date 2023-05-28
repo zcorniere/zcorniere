@@ -12,9 +12,5 @@
 
 <br />
 
-### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcorniere)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [linkedin]: https://www.linkedin.com/in/zacharie-corniere-375170185/
 [email]: mailto:zacharie@corniere.me
